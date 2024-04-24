@@ -13,10 +13,6 @@ In this mini-project, we did some data processing and visualisation and then app
 
 To ensure robustness of our models, we also used our models to predict whether a song appears in the top 100 charts for other music streaming service providers like apple music, shazam and deezer
 
-## Contributors
-@Tinkybala - Data Preprocessing, MLP\
-@Nicoleelow - Random Forests, XGBoost\
-Chaewon - Data Visualisation, KNN, Logistic Regression
 
 ## Conclusion
 - With the given dataset it is difficult to accurately predict whether a song appears in the top 100 list. Perhaps, with more features we could have achieved more accurate models.
@@ -27,6 +23,11 @@ Chaewon - Data Visualisation, KNN, Logistic Regression
 - data processing techniques like one-hot encoding and scaling
 - Neural Network basics from keras
 - Various machine learning models from sklearn
+
+## Contributors
+@Tinkybala - Data Preprocessing, MLP\
+@Nicoleelow - Random Forests, XGBoost\
+Chaewon - Data Visualisation, KNN, Logistic Regression
 
 ## Dataset
 The dataset that we used was created by Nidula Elgiriyewithanao on Kaggle. Check it out using the link below.\
