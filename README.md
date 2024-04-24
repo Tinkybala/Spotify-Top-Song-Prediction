@@ -2,8 +2,7 @@
 ![spotify](https://github.com/Tinkybala/Spotify-Top-Song-Prediction/assets/101686061/d1db90db-3f4b-43a3-bfd2-5c8796d1e801)
 
 
-
-We did some data pre-processing and EDA and then applied various machine learning models to predict whether a song would appear in the top 100 charts of spotify
+In this mini-project, we did some data processing and visualisation and then applied various machine learning models to predict whether a song would appear in the top 100 charts of spotify.
 ## Models used:
 
 **1)logistic regression**\
