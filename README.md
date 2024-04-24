@@ -14,8 +14,8 @@ We did some data pre-processing and EDA and then applied various machine learnin
 To ensure robustness of our models, we also used our models to predict whether a song appears in the top 100 charts for other music streaming service providers like apple music, shazam and deezer
 
 ## Contributors
-@Tinkybala - Data Preprocessing, MLP 
-@Nicoleelow - Random Forests, XGBoost
+@Tinkybala - Data Preprocessing, MLP\
+@Nicoleelow - Random Forests, XGBoost\
 Chaewon - Data Visualisation, KNN, Logistic Regression
 
 ## Conclusion
