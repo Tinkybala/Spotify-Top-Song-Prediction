@@ -31,15 +31,15 @@ To ensure robustness of our models, we also used our models to predict whether a
 Chaewon - Data Visualisation, KNN, Logistic Regression
 
 ## Dataset
-The dataset that we used was created by Nidula Elgiriyewithanao on Kaggle. Check it out using the link below.\
-https://www.kaggle.com/datasets/nelgiriyewithana/top-spotify-songs-2023
+The <a href="https://www.kaggle.com/datasets/nelgiriyewithana/top-spotify-songs-2023">dataset</a> that we used was created by Nidula Elgiriyewithanao on Kaggle.
+
 
 ## References
--https://www.analyticsvidhya.com/blog/2021/11/training-neural-network-with-keras-and-basics-of-deep-learning/
--https://www.youtube.com/@statquest
--https://www.datacamp.com/tutorial/xgboost-in-python
--https://www.datacamp.com/tutorial/random-forests-classifier-python
--https://www.ibm.com/topics/random-forest
--https://medium.com/@prathameshsonawane/xgboost-how-does-this-work-e1cae7c5b6cb
--https://forecastegy.com/posts/does-xgboost-need-feature-scaling-or-normalization/#:~:text=If%20you%20are%20using%20XGBoost%20with%20linear%20models%20as%20base,can%20lead%20to%20better%20performance.
+- https://www.analyticsvidhya.com/blog/2021/11/training-neural-network-with-keras-and-basics-of-deep-learning/
+- https://www.youtube.com/@statquest
+- https://www.datacamp.com/tutorial/xgboost-in-python
+- https://www.datacamp.com/tutorial/random-forests-classifier-python
+- https://www.ibm.com/topics/random-forest
+- https://medium.com/@prathameshsonawane/xgboost-how-does-this-work-e1cae7c5b6cb
+- https://forecastegy.com/posts/does-xgboost-need-feature-scaling-or-normalization/#:~:text=If%20you%20are%20using%20XGBoost%20with%20linear%20models%20as%20base,can%20lead%20to%20better%20performance.
 
