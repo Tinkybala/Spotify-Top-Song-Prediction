@@ -16,6 +16,7 @@ To ensure robustness of our models, we also used our models to predict whether a
 
 ## Conclusion
 - With the given dataset it is difficult to accurately predict whether a song appears in the top 100 list. Perhaps, with more features we could have achieved more accurate models.
+- All the models used did not achieve a good accuracy
 
 ## What we Learnt
 - Metrics like recall, precision and F1 score
