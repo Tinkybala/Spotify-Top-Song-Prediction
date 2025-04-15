@@ -28,7 +28,7 @@ To ensure robustness of our models, we also used our models to predict whether a
 ## Contributors
 @Tinkybala - Data Preprocessing, MLP\
 @Nicoleelow - Random Forests, XGBoost\
-Chaewon - Data Visualisation, KNN, Logistic Regression
+@Junooou - Data Visualisation, KNN, Logistic Regression
 
 ## Dataset
 The <a href="https://www.kaggle.com/datasets/nelgiriyewithana/top-spotify-songs-2023">dataset</a> that we used was created by Nidula Elgiriyewithanao on Kaggle.
